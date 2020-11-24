@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Magic apprentice, wide-ranging student of mysticism & occultism.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+我是Chavis Diaz，欢迎在这里阅读我所有的收藏。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+我是很年轻的魔法研习者，实践和修行结果的衡量无不以自我为准绳。假如你已经看过我所翻译或记录的文章，你可能会发现其中的某些内容似乎偏于左道，请不要为此而恼怒。我在这个阶段往往被离经叛道的思想所左右，将无知的热情引以为豪，这意味着我会在许多极端的位置做出尝试。
 
-What else do you need?
+对于外文资料，我无法为你提供完全准确的翻译，但是我会尽力在文末附上原文内容。
 
-### My story
+在这个领域我没有老师，所有为我个人体系的构建有所贡献的知识——正如你在这个博客内所能看到的——曾经散布在互联网或现实中的各地，散乱而无序，浅显或艰深...也许你知道愚人（The Fool）的道路是光亮而开阔的，且并不希望在迷雾中长行。
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+希望我能给你一些指引，或是帮助你看到心中所想之物。
+
+
+*请自由阐释、实践或使用博客内所有内容。祝你一帆风顺。*
+
