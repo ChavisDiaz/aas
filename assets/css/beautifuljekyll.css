@@ -545,7 +545,7 @@ footer .footer-custom-content {
 /* --- Tags --- */
 
 .blog-tags {
-  font-family: 'Copperplate', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Copperplate', 'Copperplate', Helvetica, Arial, sans-serif;
   font-size: 0.9375rem;
   margin: 1.875rem 0;
 }
@@ -588,7 +588,7 @@ footer .footer-custom-content {
 }
 
 #full-tags-list {
-  font-family: 'Optima', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Copperplate', 'Optima', Helvetica, Arial, sans-serif;
 }
 
 #full-tags-list .tag-entry {
